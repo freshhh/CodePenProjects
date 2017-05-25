@@ -1,0 +1,24 @@
+.outdiv{
+  text-align: center;
+  width: 100%;
+  height: height;
+  background: #04546b;
+  margin: 0;
+}
+.indiv0{
+  color: #1300e5;
+  text-align: center;
+  width: 600px;
+  height: 450px;
+  margin: 50px auto 100px auto;
+  background : #5aecfc;
+  border-radius: 5px;
+}
+#ombutton{
+  float: right-below;
+  margin-top: auto;
+  background: #033e4f
+}
+#creatorreck{
+  color: #005;
+}
